@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blueAccent,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Dice_Game_Saivignesh'),
           backgroundColor: Colors.blueAccent[900],
         ),
         body: DicePage(),
